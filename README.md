@@ -4,7 +4,7 @@
 <a href="https://github.com/MarcoBonato2007?tab=repositories"><img src="https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white" height=25></a>
 <a href="mailto:marcobonato2007@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-I'm an 18-year old with a passion for mathematics and computer science, and an incoming Oxford University student.
+I'm an 18-year old with a passion for mathematics and computer science, and an Oxford University student.
 ## Skills
 I speak English and Italian fluently, Dutch proficiently, German at an intermediate level and also a little Spanish.
 
