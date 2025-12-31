@@ -15,10 +15,10 @@ I'm currently studying for a master's in computer science at the university of O
 
 ### Libraries / frameworks
 - Flutter
-- Selenium / Beautiful Soup
+- Selenium, beautiful Soup
 - Pandas, numpy, matplotlib
 - OpenGL, assimp
-- Pygame
+- Pygame, tkinter
 
 ### Areas
 - Elementary computer hardware
